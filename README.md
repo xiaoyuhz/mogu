@@ -20,7 +20,7 @@ LEABLETI：专业，护理、JAVA、学前教育、C#、测试、药学、初等
 STARTTIMEDATE：开始签到的第一天的时间日期，格式：2020/11/23   2020/07/20
 Sava.js中添加了两个地址，咸职和第四人民医院的地址
 在线经纬度获取：http://www.daquan.la/jingwei/
-sava中：longitude经度，latitude纬度
+sava中：longitude经度，latitude纬度测试
 ````
 
 ---------------------------------
