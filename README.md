@@ -48,7 +48,7 @@ pipeline {
 cd ./src
 node main.js ${PHONE} ${PASSWORD} ${SCKEY} ${TOKEN} ${LEABLETI} ${STARTTIMEDATE}'''
         }
-      }
+      } 
     }
   }
 ````
